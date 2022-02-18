@@ -1,5 +1,9 @@
 # Escape from Tarkov(SPT-AKI) 的繁體中文化
+
 單純自己爽而已，沒有要幹嘛
+
+目前支援版本 SPT-AKI 2.2.1
+
 ![GITHUB](/Photos/1.png "1.png")
 ![GITHUB](/Photos/2.png "2.png")
 ![GITHUB](/Photos/3.png "3.png")
