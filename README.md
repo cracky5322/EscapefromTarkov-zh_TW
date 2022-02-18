@@ -4,6 +4,10 @@
 
 目前支援版本 SPT-AKI 2.2.1
 
+自行打包自行覆蓋
+
+mods 有放我在用的模塊支援翻譯的，需要可以自己覆蓋翻譯
+
 ![GITHUB](/Photos/1.png "1.png")
 ![GITHUB](/Photos/2.png "2.png")
 ![GITHUB](/Photos/3.png "3.png")
